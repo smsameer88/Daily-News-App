@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:sqliter-driver-iossimulatorarm64:1.2.3" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="co.touchlab" artifactId="sqliter-driver-iossimulatorarm64" version="1.2.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iossimulatorarm64/1.2.3/9a93835ee9756f86541a58c3504f7ebdc0989fdc/sqliter-driver-cinterop-sqlite3.klib!/" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iossimulatorarm64/1.2.3/114755b14846d6a3a0a94ed2c6f52b05f7ef6191/sqliter-driver.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iossimulatorarm64/1.2.3/ece50057effbc8bc0332ee3f30bab517aa85f0dd/sqliter-driver-iossimulatorarm64-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iossimulatorarm64/1.2.3/d30d57aa3826b162041c268fec94dda2f2e8a79a/sqliter-driver-iossimulatorarm64-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

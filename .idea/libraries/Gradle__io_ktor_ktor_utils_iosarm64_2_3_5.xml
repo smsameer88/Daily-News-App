@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-utils-iosarm64:2.3.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.ktor" artifactId="ktor-utils-iosarm64" version="2.3.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iosarm64/2.3.5/c09ee02cdb87c5789dba2fb9cd38cafe8da0fe97/ktor-utils-cinterop-threadUtils.klib!/" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iosarm64/2.3.5/c076f7ae3e0dde9c6d0e232f950cde504ef75772/ktor-utils.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iosarm64/2.3.5/b4f96f9a5d6bbbfc376e4b7061e5aaadb7355849/ktor-utils-iosarm64-2.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iosarm64/2.3.5/ded52de1581461667ba1cc88807a4bc9375a1ccd/ktor-utils-iosarm64-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

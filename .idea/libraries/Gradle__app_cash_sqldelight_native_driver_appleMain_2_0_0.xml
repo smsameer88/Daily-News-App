@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: app.cash.sqldelight:native-driver:appleMain:2.0.0" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="app.cash.sqldelight" artifactId="native-driver" version="2.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/app.cash.sqldelight-native-driver-2.0.0-appleMain-aOTgDQ.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/app.cash.sqldelight/native-driver/2.0.0/2ad14aed781c4a73ed4dbb421966d408a0a06686/native-driver-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/app.cash.sqldelight/native-driver/2.0.0/2aaa7a60709c878df2e4cf0fd53781d5d2b7c0f8/native-driver-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

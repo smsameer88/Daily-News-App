@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-iossimulatorarm64:0.22.0" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="atomicfu-iossimulatorarm64" version="0.22.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iossimulatorarm64/0.22.0/6c1ca06832705a8df9405df5288d27dab040ba46/atomicfu-cinterop-interop.klib!/" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iossimulatorarm64/0.22.0/7889035b6e15d954e7c099a0d065a8c2abe46678/atomicfu.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iossimulatorarm64/0.22.0/2dbb1203d9c4a6dd6a0445512d9e24081dbc9f05/atomicfu-iossimulatorarm64-0.22.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iossimulatorarm64/0.22.0/95e43686e8a6e8e4312b041614a4222c6bf585f9/atomicfu-iossimulatorarm64-0.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

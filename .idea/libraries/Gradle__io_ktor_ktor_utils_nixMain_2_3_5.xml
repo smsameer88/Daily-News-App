@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-utils:nixMain:2.3.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.ktor" artifactId="ktor-utils" version="2.3.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/io.ktor-ktor-utils-2.3.5-nixMain-phDhyQ.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils/2.3.5/aa29ed3c1930770514ec9b6fc590c83213df3992/ktor-utils-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

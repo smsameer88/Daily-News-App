@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:sqliter-driver:appleMain:1.2.3" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="co.touchlab" artifactId="sqliter-driver" version="1.2.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/co.touchlab-sqliter-driver-1.2.3-appleMain-rHUiSA.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/sqliter-driver/1.2.3/ece50057effbc8bc0332ee3f30bab517aa85f0dd/sqliter-driver-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/sqliter-driver/1.2.3/9212351c059381cf4e8e456a0e8af6c58e4986f6/sqliter-driver-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:stately-concurrency:nativeCommonMain:1.2.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="co.touchlab" artifactId="stately-concurrency" version="1.2.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/co.touchlab-stately-concurrency-1.2.5-nativeCommonMain-JxSiGQ.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/stately-concurrency/1.2.5/60915558e7b27518822a1ff9f5c1d57df69673b1/stately-concurrency-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/stately-concurrency/1.2.5/f5df37aae69da4dfc91a9c07d449739dae520b1/stately-concurrency-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

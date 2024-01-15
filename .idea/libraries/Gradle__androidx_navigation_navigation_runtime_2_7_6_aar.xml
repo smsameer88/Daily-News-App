@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-runtime:2.7.6@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android_studio/jre/caches/transforms-3/6c96914913b93d09619dc53f05522e42/transformed/navigation-runtime-2.7.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/transforms-3/6c96914913b93d09619dc53f05522e42/transformed/navigation-runtime-2.7.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../android_studio/jre/caches/transforms-3/6c96914913b93d09619dc53f05522e42/transformed/navigation-runtime-2.7.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.7.6/136cdad1fe68a293a074fbdfd06242a939269ef9/navigation-runtime-2.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

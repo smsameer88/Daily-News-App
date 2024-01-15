@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.insert-koin:koin-androidx-compose:3.4.3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android_studio/jre/caches/transforms-3/cc853336d63995f7c58a8af7a5b8e969/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/transforms-3/cc853336d63995f7c58a8af7a5b8e969/transformed/koin-androidx-compose-3.4.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.insert-koin/koin-androidx-compose/3.4.3/2322257b59d37e23c9602254a58c8c16e477391e/koin-androidx-compose-3.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.insert-koin/koin-androidx-compose/3.4.3/b62d103052efe4272f8abca504d07ca631460c2f/koin-androidx-compose-3.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

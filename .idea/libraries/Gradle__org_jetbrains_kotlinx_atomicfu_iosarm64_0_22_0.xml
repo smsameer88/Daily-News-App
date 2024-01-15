@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-iosarm64:0.22.0" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="atomicfu-iosarm64" version="0.22.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iosarm64/0.22.0/4c681adfb2b1abccf8d522791b0ef8ff92fcfe87/atomicfu-cinterop-interop.klib!/" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iosarm64/0.22.0/48e71260f14b9966b1de4fca9802d5fed9801d28/atomicfu.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iosarm64/0.22.0/2dbb1203d9c4a6dd6a0445512d9e24081dbc9f05/atomicfu-iosarm64-0.22.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-iosarm64/0.22.0/95e43686e8a6e8e4312b041614a4222c6bf585f9/atomicfu-iosarm64-0.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

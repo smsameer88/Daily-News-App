@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-utils-iossimulatorarm64:2.3.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.ktor" artifactId="ktor-utils-iossimulatorarm64" version="2.3.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iossimulatorarm64/2.3.5/5497858cadc3d64d1bf4ae6ea201fcf3c1652f9c/ktor-utils.klib!/" />
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iossimulatorarm64/2.3.5/acc54886e8d9136cbf296776c3d094ef049b3b67/ktor-utils-cinterop-threadUtils.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iossimulatorarm64/2.3.5/b4f96f9a5d6bbbfc376e4b7061e5aaadb7355849/ktor-utils-iossimulatorarm64-2.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-utils-iossimulatorarm64/2.3.5/ded52de1581461667ba1cc88807a4bc9375a1ccd/ktor-utils-iossimulatorarm64-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

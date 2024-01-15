@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sameer.dailypulse.shared-merged_res-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "D:\\android_studio\\jre\\caches\\transforms-3\\de3789287fa50267770bffc4f853b78d\\transformed\\lifecycle-viewmodel-2.6.2\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sameer.dailypulse.shared-mergeReleaseResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "D:\\android_studio\\jre\\caches\\transforms-3\\de3789287fa50267770bffc4f853b78d\\transformed\\lifecycle-viewmodel-2.6.2\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

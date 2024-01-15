@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":shared:iosX64Main" external.linked.project.path="$MODULE_DIR$/../../../shared" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="DailyPulse" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="Native (ios_x64) " allPlatforms="Native []/Native [ios_x64]" useProjectSettings="false" isTestModule="false" externalProjectId=":shared" isHmppProject="true">
+        <dependsOnModuleNames>
+          <dependsOn>:shared:iosMain</dependsOn>
+          <dependsOn>:shared:appleMain</dependsOn>
+          <dependsOn>:shared:nativeMain</dependsOn>
+          <dependsOn>:shared:commonMain</dependsOn>
+        </dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>DailyPulse.shared.iosMain</sourceSet>
+          <sourceSet>DailyPulse.shared.appleMain</sourceSet>
+          <sourceSet>DailyPulse.shared.nativeMain</sourceSet>
+          <sourceSet>DailyPulse.shared.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="debug" arg="true" />
+            <flagArg name="enableAssertions" arg="true" />
+            <flagArg name="noendorsedlibs" arg="true" />
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="moduleName" arg="DailyPulse:shared" />
+            <stringArg name="outputName" arg="D:\Daily-News-App\shared\build\classes\kotlin\iosX64\main\klib\shared.klib" />
+            <stringArg name="produce" arg="library" />
+            <stringArg name="shortModuleName" arg="shared" />
+            <stringArg name="target" arg="ios_x64" />
+            <stringArg name="apiVersion" arg="1.9" />
+            <stringArg name="languageVersion" arg="1.9" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar</args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../shared/build/classes/kotlin/iosX64/main/klib" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../shared/src/iosX64Main" />
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DailyPulse.shared.iosMain" />
+    <orderEntry type="module" module-name="DailyPulse.shared.appleMain" />
+    <orderEntry type="module" module-name="DailyPulse.shared.nativeMain" />
+    <orderEntry type="module" module-name="DailyPulse.shared.commonMain" />
+    <orderEntry type="library" name="Gradle: Kotlin/Native: stdlib" level="project" />
+    <orderEntry type="library" name="Gradle: app.cash.sqldelight:coroutines-extensions-iosx64:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: app.cash.sqldelight:native-driver-iosx64:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: app.cash.sqldelight:async-extensions-iosx64:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-content-negotiation-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-darwin-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-kotlinx-json-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: co.touchlab.skie:runtime-kotlin-iosx64__kgp_1.9.0:0.4.19" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-events-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websocket-serialization-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-kotlinx-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websockets-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-iosx64:2.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: app.cash.sqldelight:runtime-iosx64:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iosx64:1.7.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime-iosx64:0.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.insert-koin:koin-core-iosx64:3.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-iosx64:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu-iosx64:0.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-iosx64:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: co.touchlab:stately-concurrency-iosx64:1.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: co.touchlab:sqliter-driver-iosx64:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: co.touchlab:stately-common-iosx64:1.2.5" level="project" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.insert-koin:koin-core-iosarm64:3.4.3" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.insert-koin" artifactId="koin-core-iosarm64" version="3.4.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.insert-koin/koin-core-iosarm64/3.4.3/fc477700bfbb9c38fdf4a7b2a5f6ed5cfcff1bb/koin-core.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.insert-koin/koin-core-iosarm64/3.4.3/a4be1bf9c6c794b8cd5c0c6607baeb639841ddb1/koin-core-iosarm64-3.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.insert-koin/koin-core-iosarm64/3.4.3/5c53c571a99a013fd793caf9c270ccfe812c2f49/koin-core-iosarm64-3.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu:commonMain:0.22.0" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="atomicfu" version="0.22.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.22.0-commonMain-dLtvoA.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.22.0/87469eb272968fecac3b0b591a4cc4490dbfb100/atomicfu-0.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

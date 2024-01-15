@@ -1,0 +1,13 @@
+com.sameer.dailypulse.shared-pngs-0 D:\DailyPulse\shared\build\generated\res\pngs\release
+com.sameer.dailypulse.shared-resValues-1 D:\DailyPulse\shared\build\generated\res\resValues\release
+com.sameer.dailypulse.shared-mergeReleaseResources-2 D:\DailyPulse\shared\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.sameer.dailypulse.shared-mergeReleaseResources-3 D:\DailyPulse\shared\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.sameer.dailypulse.shared-merged_res-4 D:\DailyPulse\shared\build\intermediates\merged_res\release
+com.sameer.dailypulse.shared-androidMain-5 D:\DailyPulse\shared\src\androidMain\res
+com.sameer.dailypulse.shared-androidRelease-6 D:\DailyPulse\shared\src\androidRelease\res
+com.sameer.dailypulse.shared-main-7 D:\DailyPulse\shared\src\main\res
+com.sameer.dailypulse.shared-release-8 D:\DailyPulse\shared\src\release\res
+com.sameer.dailypulse.shared-sqlite-2.3.1-9 D:\android_studio\jre\caches\transforms-3\36f27c04eeef31f73ba3cbd7bc9410ef\transformed\sqlite-2.3.1\res
+com.sameer.dailypulse.shared-lifecycle-viewmodel-ktx-2.6.2-10 D:\android_studio\jre\caches\transforms-3\44aa9b6ca4188cf181ab94ff6dc4947c\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.sameer.dailypulse.shared-sqlite-framework-2.3.1-11 D:\android_studio\jre\caches\transforms-3\79232ce23dd3164aaad26b67056c1efe\transformed\sqlite-framework-2.3.1\res
+com.sameer.dailypulse.shared-lifecycle-viewmodel-2.6.2-12 D:\android_studio\jre\caches\transforms-3\de3789287fa50267770bffc4f853b78d\transformed\lifecycle-viewmodel-2.6.2\res

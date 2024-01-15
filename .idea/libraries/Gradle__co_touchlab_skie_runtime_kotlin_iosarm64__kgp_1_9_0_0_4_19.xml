@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab.skie:runtime-kotlin-iosarm64__kgp_1.9.0:0.4.19" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="co.touchlab.skie" artifactId="runtime-kotlin-iosarm64__kgp_1.9.0" version="0.4.19" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab.skie/runtime-kotlin-iosarm64__kgp_1.9.0/0.4.19/63d99dc4e6c9534bf2a9d394593ef846b2c6edf8/runtime-kotlin.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab.skie/runtime-kotlin-iosarm64__kgp_1.9.0/0.4.19/842249099ff52af79553548e9a87ab04bbceda3d/runtime-kotlin-iosarm64__kgp_1.9.0-0.4.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab.skie/runtime-kotlin-iosarm64__kgp_1.9.0/0.4.19/c61a8568308f3383dec13e2df206268c2af0a270/runtime-kotlin-iosarm64__kgp_1.9.0-0.4.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

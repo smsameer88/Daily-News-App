@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-websockets-iosx64:2.3.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.ktor" artifactId="ktor-websockets-iosx64" version="2.3.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-websockets-iosx64/2.3.5/414ef34d809d07fb3b31487f45ad7c47c45290cf/ktor-websockets.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-websockets-iosx64/2.3.5/63c5503cc59218bc46a9825dd9b793538e341745/ktor-websockets-iosx64-2.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-websockets-iosx64/2.3.5/5fd23227701eeac6b35254c21d15f373fb94ff7e/ktor-websockets-iosx64-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

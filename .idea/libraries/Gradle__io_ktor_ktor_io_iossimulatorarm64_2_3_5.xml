@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-io-iossimulatorarm64:2.3.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.ktor" artifactId="ktor-io-iossimulatorarm64" version="2.3.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-io-iossimulatorarm64/2.3.5/cfccb0bd6223c43c623b2a31af55d12c90bb4583/ktor-io.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-io-iossimulatorarm64/2.3.5/e89eff28046b7e7012c40588f2c9a5fec5f60bca/ktor-io-iossimulatorarm64-2.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/io.ktor/ktor-io-iossimulatorarm64/2.3.5/2b7a8031d968aaf5550cf2274de7f9a252783253/ktor-io-iossimulatorarm64-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

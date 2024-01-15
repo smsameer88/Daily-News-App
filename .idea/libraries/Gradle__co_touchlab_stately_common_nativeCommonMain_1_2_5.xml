@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:stately-common:nativeCommonMain:1.2.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="co.touchlab" artifactId="stately-common" version="1.2.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/co.touchlab-stately-common-1.2.5-nativeCommonMain-PI_Euw.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/stately-common/1.2.5/42ea82d124da00194fe432f9384bc69b2b951939/stately-common-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android_studio/jre/caches/modules-2/files-2.1/co.touchlab/stately-common/1.2.5/ec15363d16a8a1cd09ef11da9004535dfb767e37/stately-common-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
