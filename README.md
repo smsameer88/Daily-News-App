@@ -22,8 +22,8 @@ It is a prototype app based on the following technologies and patterns:
 
 The UI/Framework layers reside in the native apps, while everything from the View Model up to Data layer is in the common KMP module.
 
-![Untitled Diagram drawing](https://github.com/smsameer88/Daily-News-App/tree/main/androidApp/src/main/java/com/sameer/dailypulse/screens/mvvm-architecture.png)
+![Untitled Diagram drawing](https://github.com/smsameer88/Daily-News-App/blob/main/androidApp/src/main/java/com/sameer/dailypulse/screenshots/mvvm_architecture.png)
 
 ## Architectural Layers
 
-<img width="531" alt="Screenshot 2023-12-04 at 18 19 53" src="https://github.com/smsameer88/Daily-News-App/tree/main/androidApp/src/main/java/com/sameer/dailypulse/screens/architecture.png">
+<img width="531" alt="Screenshot 2023-12-04 at 18 19 53" src="https://github.com/smsameer88/Daily-News-App/blob/main/androidApp/src/main/java/com/sameer/dailypulse/screenshots/architecture.png">
